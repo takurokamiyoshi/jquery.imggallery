@@ -1,0 +1,16 @@
+@charset "UTF-8";
+#main_img {
+    list-style: none;
+    position: relative;
+    height: 500px;
+}
+#main_img li {
+    position: absolute;
+}
+#thumb_img {
+    list-style: none;
+}
+#thumb_img li {
+    float: left;
+    margin-right: 10px;
+}
