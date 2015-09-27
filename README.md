@@ -4,11 +4,11 @@
 [http://www.takurokamiyoshi.net/blog/177/](http://www.takurokamiyoshi.net/blog/177/)
 ##使い方
 ###CSS、ライブラリーの読み込み
-style.css、jQueryとjquery.imggallery.jsを読み込みます。
+style.css、jQueryとjquery.imggallery.min.jsを読み込みます。
 
 	<link rel="stylesheet" href="css/style.css">
 	<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
-	<script src="js/jquery.imggallery.js"></script>
+	<script src="js/jquery.imggallery.min.js"></script>
 
 ###HTMLタグを用意する
 	<ul id="main_img">
